@@ -1,0 +1,71 @@
+# Certificados IFBA
+
+Sistema desenvolvido para gerenciamento, emissão e validação de certificados digitais do IFBA (Instituto Federal da Bahia).
+
+## 📌 Sobre o Projeto
+
+O projeto tem como objetivo disponibilizar uma API/backend para gerenciamento de certificados, permitindo operações de cadastro, consulta, atualização e remoção de dados relacionados aos certificados e participantes.
+
+A aplicação foi desenvolvida utilizando Node.js e segue uma arquitetura organizada em camadas:
+
+- Router
+- Controller
+- Service
+- JSON (persistência de dados)
+
+## 🚀 Tecnologias Utilizadas
+
+- Node.js
+- Express
+- JavaScript
+- JSON
+- REST API
+
+## 📂 Estrutura do Projeto
+
+```bash
+├── controller/
+├── router/
+├── service/
+├── json/
+├── app.js
+├── package.json
+└── README.md
+
+```bash
+git clone https://github.com/pablofmatos/certificados-ifba.git
+cd certificados-ifba
+npm start
+npm run dev
+
+Exemplo de Endpoints
+GET /atividade
+GET /atividade/:id
+POST /atividade
+PATCH /atividade/:id
+DELETE /atividade/:id
+
+Funcionalidades
+Cadastro de certificados
+Consulta de certificados
+Atualização de registros
+Exclusão de registros
+Estrutura modular para expansão
+Persistência em arquivos JSON
+
+🎯 Objetivo Acadêmico
+
+Este projeto foi desenvolvido com fins acadêmicos e de aprendizagem, visando praticar conceitos relacionados a:
+
+APIs REST
+Arquitetura em camadas
+Node.js com Express
+Manipulação de arquivos JSON
+Organização de projetos backend
+👨‍💻 Autor
+Desenvolvido por Pablo Matos.
+
+GitHub: https://github.com/pablofmatos
+
+📜 Licença
+Este projeto está licenciado sob a licença MIT.
