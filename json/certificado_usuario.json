@@ -1,0 +1,44 @@
+[
+{
+   "_id": 1,
+   "login": "maria",
+   "senha": "123456",
+   "email": "maria@hotmail.com",
+   "email_valido": null,
+   "cadastrado_em": "2018-02-04 20:43:02",
+   "tipo": "administrador"
+},
+{
+   "_id": 1,
+   "email": "joao@hotmail.com",
+   "email_valido": null,
+   "cadastrado_em": "2018-02-04 20:43:02",
+   "tipo": "participante",
+   "dadosPessoais": {
+      "cpf": "00000000000",
+      "nome_completo": "JOAO SANTOS SILVA",
+      "data_nascimento": "1990-12-23",
+      "telefone": "77-998256012",
+      "instituicao_ifba_vca": "Sim"
+   },
+   "certificados": [
+      {
+         "evento_id": 1,
+         "atividade_id": 1,
+         "funcao_id": 1,
+         "tipo_atividade_id": 1,
+         "data_inicio": "2017-11-27",
+         "data_fim": "2017-11-27",
+         "carga_horaria": 10,
+         "data_ultima_emissao": "2018-02-21 10:12:26",
+         "chave_validacao": "C16E1AFFFF8AE96F",
+         "email_enviado_em": null,
+         "ordem_autoria": null,
+         "texto_adicional": null,
+         "cadastrado_em": "2018-02-04 21:18:21"
+      }
+   ]
+}
+
+
+]

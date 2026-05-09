@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "palestrante",
+    "tipo": "tipoAtividade",
+    "cadastrado_em": "2018-01-05 12:12:09"
+  },
+  {
+    "id": 2,
+    "nome": "bolsista",
+    "tipo": "funcao",
+    "cadastrado_em": "2018-01-05 12:12:09"
+  }
+]

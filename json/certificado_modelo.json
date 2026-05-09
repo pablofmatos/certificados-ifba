@@ -1,0 +1,27 @@
+[
+{
+  "id": 26,
+  "evento_id": 1,
+  "nome": "Organização_Docente_Discente",
+  "tipoAtividade_funcao": [
+    {
+      "tipoAtividade_id": 1,
+      "funcao_id": 1
+    },
+    {
+      "tipoAtividade_id": 1,
+      "funcao_id": 2
+    }
+  ],
+  "paginas": [
+    {
+      "tipo": "frente",
+      "texto": "<p>Certificamos...</p>",
+      "descricao": null,
+      "imagem": "1.png"
+    }
+  ],
+  "cadastrado_em": "2018-02-04 20:39:27"
+}
+
+]

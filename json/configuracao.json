@@ -1,0 +1,19 @@
+[
+{
+  "_id": 1,
+  "dados_administrador": {
+    "login": "admin",
+    "senha": 123456
+  },
+  "dados_imagem": {
+    "logo": "xxx",
+    "icon": "yyy"
+  },
+  "email_sistema": "certificados.vdc@ifba.edu.br",
+  "texto_padrao_certificado": "Certificamos que [participante_nome]...",
+  "texto_aviso_manutencao": "Sistema em manutenção temporariamente...",
+  "title" : "Certificados IFBA/VCA",
+  "description" : "Sistema de Gerenciamento, Emissão e Validação de Certificados do IFBA Campus Vitória da Conquista desenvolvido desde 2017",
+  "keywords" : "Sistema Certificados, Certificados IFBA, Campus Vitória da Conquista"
+}
+]
